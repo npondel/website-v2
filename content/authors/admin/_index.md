@@ -60,6 +60,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Currently a Client Systems Engineer at Epic.  In my professional work, I support hospital SysAdmins that work on the "presentation tier" including published applications and virtual desktops infrastructure.  Outside of that core role, I also work on troubleshooting networking issues, web browser technologies, and development.  My dev work is primarily focused on PowerShell and R for automation and analytics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In my spare time, I enjoy tinkering with homelab components, primarily running various docker containers on an Unraid server, and various raspberry pi projects like pihole and octopi.
