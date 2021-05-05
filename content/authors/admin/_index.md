@@ -19,6 +19,7 @@ bio:
 # Interests to show in About widget
 interests:
 - Presentation Tier Systems (XenApp, RDSH, Windows)
+- Windows Debugging
 - R, Stats, and Analytics
 - Networking and Web Technologies
 - Docker and CI/CD

@@ -22,28 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Client Systems Engineer 
+    company: Epic Systems Corporation
+    company_url: 'www.epic.com'
+    location: Verona, Wisconsin
+    date_start: '2019-09-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Customer support for desktop applications and presentation tier systems
+        * Infrastructure capacity planning
+        * Troubleshooting complex Windows and infrastructure issues
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Medical Laboratory Scientist
+    company: The Ohio State University Wexner Medical Center
+    company_url: 'https://wexnermedical.osu.edu'
+    location: Columbus, Ohio
+    date_start: '2016-05-01'
+    date_end: '2019-08-15'
+    description: Performed laboratory testing on patient samples in a high-volume, academic laboratory.  Specialized in Hematology, Coagulation, and Lab Automation Systems.
 
 design:
   columns: '2'
