@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto://nick@nickpondel.com'
 - icon: github
   icon_pack: fab
   link: https://github.com/npondel
@@ -58,7 +58,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 Currently a Client Systems Engineer at Epic.  In my professional work, I support hospital SysAdmins that work on the "presentation tier" including published applications and virtual desktops infrastructure.  Outside of that core role, I also work on troubleshooting networking issues, web browser technologies, and development.  My dev work is primarily focused on PowerShell and R for automation and analytics.

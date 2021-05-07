@@ -4,7 +4,7 @@
 title: "BitBar"
 subtitle: "Add scripts to your MacOS menu bar"
 summary: ""
-authors: [admin]
+authors: [nick]
 tags: []
 categories: [MacOS]
 date: 2020-09-15T00:00:00-05:00
