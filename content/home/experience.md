@@ -33,7 +33,7 @@ experience:
         
         * Customer support for desktop applications and presentation tier systems
         * Infrastructure capacity planning
-        * Troubleshooting complex Windows and infrastructure issues
+        * Complex troubleshooting of: system performance, networking, Windows debugging, etc.
         
   - title: Medical Laboratory Scientist
     company: The Ohio State University Wexner Medical Center
