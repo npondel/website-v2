@@ -18,12 +18,11 @@ bio:
 
 # Interests to show in About widget
 interests:
-- Presentation Tier Systems (XenApp, RDSH, Windows)
-- Windows Debugging
+- XenApp, RDSH, and Windows
+- Debugging network and web issues
 - R, Stats, and Analytics
-- Networking and Web Technologies
 - Docker and CI/CD
-- Laboratory Systems
+- Laboratory Instruments and Automation Systems
 
 # Education to show in About widget
 education:
@@ -61,6 +60,11 @@ email: ""
 highlight_name: true
 ---
 
-Currently a Client Systems Engineer at Epic.  In my professional work, I support hospital SysAdmins that work on the "presentation tier" including published applications and virtual desktops infrastructure.  Outside of that core role, I also work on troubleshooting networking issues, web browser technologies, and development.  My dev work is primarily focused on PowerShell and R for automation and analytics.
+Currently a Client Systems Engineer at Epic.  In my professional work, I support hospital SysAdmins that work on the "presentation tier" including published applications and virtual desktops infrastructure.  Outside of that core role, I also work on troubleshooting networking issues, web browser technologies, and some development.  My dev work is primarily focused on PowerShell and R for automation and analytics.
 
-In my spare time, I enjoy tinkering with homelab components, primarily running various docker containers on an Unraid server, and various raspberry pi projects like pihole and octopi.
+In my spare time, I enjoy playing with:
+- Unraid
+- Docker containers
+- Raspberry Pis (Octopi/PiHole)
+- 3D printers
+- Synths/electric instruments
