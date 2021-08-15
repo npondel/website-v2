@@ -22,6 +22,7 @@ interests:
 - Debugging network and web issues
 - R, Stats, and Analytics
 - Docker and CI/CD
+- Infrastructure and network security
 - Laboratory Instruments and Automation Systems
 
 # Education to show in About widget
