@@ -35,7 +35,7 @@ I totally winged this and then came out with some fantastic fajitas so I want to
 
 ### Directions
 1. Juice the limes into a pyrex or something with a spout
-2. Add some worchestershire and garlic
+2. Add some worchestershire, garlic, and chili powder
 3. Slap your ribeyes into a large ziplock bag and add the sauce along with a few glugs of olive oil
 4. Seal it up and let it sit for a few hours in the fridge
 5. Fire up that grill (don't forget your grilling basket)
