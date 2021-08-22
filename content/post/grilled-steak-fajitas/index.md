@@ -5,8 +5,8 @@ title: "Grilled Steak Fajitas"
 subtitle: "Writing this down before I forget it"
 summary: "A simple weekend meal - grilled steak fajitas"
 authors: [nick]
-tags: [Food&Drink]
-categories: []
+tags: []
+categories: [Food&Drink]
 date: 2021-08-14T22:06:21-05:00
 lastmod: 2021-08-14T22:06:21-05:00
 featured: false

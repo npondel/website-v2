@@ -6,7 +6,7 @@ subtitle: "Add scripts to your MacOS menu bar"
 summary: ""
 authors: [nick]
 tags: []
-categories: [MacOS]
+categories: [Computers]
 date: 2020-09-15T00:00:00-05:00
 lastmod: 2020-09-15T00:00:00-05:00
 featured: false

@@ -63,9 +63,8 @@ highlight_name: true
 
 Currently a Client Systems Engineer at Epic.  In my professional work, I support hospital SysAdmins that work on the "presentation tier" including published applications and virtual desktops infrastructure.  Outside of that core role, I also work on troubleshooting networking issues, web browser technologies, and some development.  My dev work is primarily focused on PowerShell and R for automation and analytics.
 
-In my spare time, I enjoy playing with:
-- Unraid
-- Docker containers
-- Raspberry Pis (Octopi/PiHole)
-- 3D printers
+In my spare time, I enjoy:
+- Unraid, Docker, and Raspberry Pis
+- League of Legends and other esports games
 - Synths/electric instruments
+- Coffee, bourbon, and cocktails

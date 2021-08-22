@@ -5,7 +5,7 @@ title: "Thank You TidyR"
 subtitle: ""
 summary: "A niche problem that a newer version of TidyR solved for me"
 authors: [nick]
-categories: [R]
+categories: [Computers]
 date: 2020-08-21T00:00:00-05:00
 lastmod: 2020-08-22T00:00:00-05:00
 featured: false
