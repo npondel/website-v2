@@ -18,12 +18,10 @@ bio:
 
 # Interests to show in About widget
 interests:
-- XenApp, RDSH, and Windows
-- Debugging network and web issues
+- Debugging Windows, networks, and web browsers
 - R, Stats, and Analytics
-- Docker and CI/CD
+- Docker, CI/CD, and Kubernetes
 - Infrastructure and network security
-- Laboratory Instruments and Automation Systems
 
 # Education to show in About widget
 education:
@@ -61,10 +59,13 @@ email: ""
 highlight_name: true
 ---
 
-Currently a Client Systems Engineer at Epic.  In my professional work, I support hospital SysAdmins that work on the "presentation tier" including published applications and virtual desktops infrastructure.  Outside of that core role, I also work on troubleshooting networking issues, web browser technologies, and some development.  My dev work is primarily focused on PowerShell and R for automation and analytics.
+Client Systems Engineer at Epic.  Professional work is primarily supporting hospital IT staff with the Epic software stack on Windows desktop and server operating systems.  Expertise in Citrix Virtual Apps and VMware Horizon Apps.  Experience debugging systems with Process Monitor, Wireshark, Fiddler, and more.  Special interests in IT security, web browser technologies, and data analytics.
 
 In my spare time, I enjoy:
 - Unraid, Docker, and Raspberry Pis
-- League of Legends and other esports games
-- Synths/electric instruments
-- Coffee, bourbon, and cocktails
+- League of Legends and CS:GO
+- Electric instruments
+- Photography
+- Making coffee, cocktails, and sometimes food
+
+A lot of this blog is going to be me documenting weird computer things and/or recipies that I don't want to forget.
