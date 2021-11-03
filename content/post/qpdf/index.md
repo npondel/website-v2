@@ -12,7 +12,7 @@ featured: false
 draft: false
 ---
 
-I discovered a wonderful little utilty while trying to debug some encrypted PDF issues at work.
+I discovered a wonderful little utilty while trying to debug some encrypted PDF issues at work.  With this you can dig into the encryption/metadata, remove passwords, reorder PDF pages, merge and split PDFs, and more!  All from the cmd line!  Don't be afraid of a little temrinal...
 
 ## Install
 Go download the correct binary for your OS [here](https://github.com/qpdf/qpdf/releases).  On Windows you'll want the mingw64.zip, other information is [here](https://github.com/qpdf/qpdf/blob/release-qpdf-10.3.2/README-what-to-download.md).
