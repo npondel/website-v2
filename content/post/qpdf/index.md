@@ -52,6 +52,6 @@ Show encryption details
 `qpdf input.pdf --show-encryption --password=password123`
 
 ## Errors
-Help, I'm seeing "the term qpdf is not recognized as the name of a cmdlet, function, ....
+Help, I'm seeing "the term qpdf is not recognized as the name of a cmdlet, function"...
 
 Yea, you screwed up the $PATH thing.  Go check that configuration and do some Googling about Windows PATH variable.
