@@ -15,9 +15,9 @@ draft: false
 Everyone needs a good chili recipe.  *Someone* in my house hates beans, so Texas chili it is!  This is heavily inspired by [this recipe](https://www.southernliving.com/recipes/west-texas-chili-recipe).  It usually comes out about "medium" spiciness, very thick, and very filling thanks to all the beef involved.
 
 ### Ingredients
-- 2 sweet onions, diced
+- 1 large sweet onion, diced
 - 5 garlic cloves, minced
-- 3 serrano peppers
+- 4 serrano peppers
 - 2 Anaheim peppers
 - 2lbs ground chuck
 - 1tbsp salt
