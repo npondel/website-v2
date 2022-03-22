@@ -32,8 +32,8 @@ experience:
         Responsibilities include:
         
         * Customer support for desktop applications and presentation tier systems
-        * Infrastructure capacity planning
-        * Complex troubleshooting of: system performance, networking, Windows debugging, etc.
+        * Infrastructure capacity planning, networking architecture, and security incident managment
+        * Complex troubleshooting of: Windows OS and enduser systems like XenApp and Horizon Apps
         
   - title: Medical Laboratory Scientist
     company: The Ohio State University Wexner Medical Center

@@ -3,7 +3,7 @@
 
 title: "Leftover Meat Soup"
 subtitle: "Chicken or Turkey, a leftover soup that rocks"
-summary: "Chicken or Turkey, a leftover soup that rockss"
+summary: "Chicken or Turkey, a leftover soup that rocks"
 authors: [nick]
 tags: []
 categories: [Food&Drink]
