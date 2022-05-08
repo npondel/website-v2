@@ -7,6 +7,9 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: Photography
+    url: 'https://www.icloud.com/sharedalbum/#B0dG4TcsmIJZnG'
+    weight: 15
   - name: All Posts
     url: '/post'
     weight: 20
