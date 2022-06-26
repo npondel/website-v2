@@ -22,9 +22,9 @@ removePathAccents: true
 
 module:
   imports:
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
       disable: true
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
 
 ############################
 ## ADVANCED
@@ -83,4 +83,21 @@ outputFormats:
   WebAppManifest:
     mediaType: application/manifest+json
     rel: manifest
-
+security:
+   enableInlineShortcodes: false
+   exec:
+     allow:
+     - ^dart-sass-embedded$
+     - ^go$
+     - ^npx$
+     - ^postcss$
+     osEnv:
+     - (?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$
+   funcs:
+     getenv:
+     - ^HUGO_|^WC_
+   http:
+     methods:
+     - (?i)GET|POST
+     urls:
+     - .* 
