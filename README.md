@@ -1,3 +1,5 @@
+# DEPRECATED, OMG.LOL IS EASIER :)
+
 # Website-V2
 * Version #2 of my personal website
 
